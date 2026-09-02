@@ -11,8 +11,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class ImpactTest {
 
-//Nesta classe eu estou comentando pois não vim na aula de terça feira, ai comento
-// para quando vou revisar o codigo para relembrar sobre oq fiz e sobre teste unitario
     private Impacta impacta;
 
     @BeforeEach
